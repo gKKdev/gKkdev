@@ -1,8 +1,8 @@
 ## gKKdev
 
 <div>
-  <img  height="154em" src="https://github-readme-stats.vercel.app/api?username=gKKdev&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img align="right" height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gKKdev&layout=compact&langs_count=16&theme=yeblu"/>
+  <img  height="151em" src="https://github-readme-stats.vercel.app/api?username=gKKdev&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gKKdev&layout=compact&langs_count=16&theme=yeblu"/>
 </div>
 <br>
 
